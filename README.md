@@ -5,7 +5,7 @@
 并且拥有免费且流畅的观看体验。
 ---
 ###核心功能:  
-- 生成m3u流媒体文件
+- 生成m3u列表
 - 生成m3u8视频文件
 - 下载视频
 - 流媒体转发
@@ -35,7 +35,8 @@
 怎么使用，有哪些步骤哪些接口。
 
 ### 使用方式
-下载到本地:  
+####方式1：
+本地部署:  
 ``` code
 git clone https://github.com/239144498/m3u8-Server.git
 ```
@@ -47,6 +48,7 @@ pip install -r requirements.txt
 ``` code
 python3 main.py
 ```
+
 ## License
 Released under the MIT license.
 
