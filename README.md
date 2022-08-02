@@ -1,10 +1,10 @@
-##m3u8-Server
+## m3u8-Server
 -------------
 在互联网快速发展的今天，有成千上万个用户都有观看电视的需求，而我，
 想打造一个让每个人都拥有自己的电视频道的目标，每个人都可以根据自己的喜欢去筛选喜欢的节目，
 并且拥有免费且流畅的观看体验。
 ---
-###核心功能:  
+### 核心功能:  
 - 生成m3u列表
 - 生成m3u8视频文件
 - 下载视频
@@ -13,16 +13,16 @@
 - 生成epg节目单(developing)
 - 数据分流
 ---
-###实现效果：
-####ios软件观看效果
+### 实现效果：
+#### ios软件观看效果
 
-<img height="300" src="https://img1.imgtp.com/2022/08/03/145gCT1Z.png" title="播放效果" width="600"/>
+<img height="300" src="https://github.com/239144498/m3u8-Streaming-Server/blob/gh-pages/image/a1.png?raw=true" title="播放效果" width="600"/>
 
-<img height="600" src="https://img1.imgtp.com/2022/08/03/iIcnP37f.jpg" title="节目单" width="300"/>
+<img height="600" src="https://github.com/239144498/m3u8-Streaming-Server/blob/gh-pages/image/a2.jpg?raw=true" title="节目单" width="300"/>
 
 ---
 
-###原理介绍
+### 原理介绍
 该项目根据分析4gtv网站的接口，通过算法得到生成ts视频的一些关键参数，省去请求网站
 从而得到m3u8文件的通信时长等开销，针对海外视频网站被墙隔离，以下简单几种观看方式：
 - 使用翻墙软件观看
