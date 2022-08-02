@@ -5,7 +5,7 @@
 并且拥有免费且流畅的观看体验。
 
 ---
-**[演示地址](https://vs.naihe.repl.co/channel) 演示部分接口**
+**[演示地址](https://vs.naihe.repl.co/channel.m3u8) 演示部分接口**
 ---
 
 ### 核心功能:  
