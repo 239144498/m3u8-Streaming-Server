@@ -16,9 +16,9 @@
 ###实现效果：
 ####ios软件观看效果
 
-<img height="300" src="C:\Users\23914\Desktop\a1.png" title="播放效果" width="600"/>
+<img height="300" src="https://img1.imgtp.com/2022/08/03/145gCT1Z.png" title="播放效果" width="600"/>
 
-<img height="600" src="C:\Users\23914\Desktop\a2.jpg" title="节目单" width="300"/>
+<img height="600" src="https://img1.imgtp.com/2022/08/03/iIcnP37f.jpg" title="节目单" width="300"/>
 
 ---
 
