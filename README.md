@@ -23,9 +23,9 @@
 ### 实现效果：
 #### ios软件观看效果
 
-<img height="300" src="https://github.com/239144498/m3u8-Streaming-Server/blob/gh-pages/image/a1.png?raw=true" title="播放效果" width="600"/>
+<img height="300" src="https://s1.328888.xyz/2022/08/03/OtUpo.webp" title="播放效果" width="600"/>
 
-<img height="600" src="https://github.com/239144498/m3u8-Streaming-Server/blob/gh-pages/image/a2.jpg?raw=true" title="节目单" width="300"/>
+<img height="600" src="https://s1.328888.xyz/2022/08/03/Ot8Vp.webp" title="节目单" width="300"/>
 
 ---
 
