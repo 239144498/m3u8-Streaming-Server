@@ -14,7 +14,7 @@
 - 下载视频
 - 流媒体转发
 - 视频中转
-- 生成EPG节目单(completed)  [EPG节目单]([http://www.google.com/](https://agit.ai/239144498/demo/raw/branch/master/4gtvchannel.xml))
+- 生成EPG节目单(completed)  [EPG节目单](https://agit.ai/239144498/demo/raw/branch/master/4gtvchannel.xml)
 - 数据分流
 
 
