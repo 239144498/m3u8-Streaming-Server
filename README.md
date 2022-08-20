@@ -25,9 +25,9 @@
 
 <img height="300" src="https://ik.imagekit.io/naihe/github/1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660959995410" title="播放效果" width="600"/>
 
-<img height="600" src="https://ik.imagekit.io/naihe/github/2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660959995410" title="节目单" width="300"/>
+<img height="600" src="https://ik.imagekit.io/naihe/github/2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660959995410" title="频道表" width="300"/>
 
-<img height="600" src="https://ik.imagekit.io/naihe/github/3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660959995410" title="频道表" width="300"/>
+<img height="600" src="https://ik.imagekit.io/naihe/github/3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660959995410" title="节目单" width="300"/>
 
 ---
 
